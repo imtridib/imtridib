@@ -123,39 +123,48 @@ CSE graduate from **East West University** (Major: Data Science) with hands-on e
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>Multilingual VQA for Cultural Heritage</h3>
-      <p>Capstone project. Curated a multilingual VQA dataset of Bangladeshi heritage sites, applied text augmentation, and fine-tuned BLIP to answer questions about heritage images.</p>
-      <p><sub><b>Python · PyTorch · BLIP · Transformers · Streamlit</b></sub></p>
-      <a href="https://github.com/imtridib/Capstone-Project">View project →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Production-Grade Multimodal VQA</h3>
-      <p>Two-stage VLM + LLM pipeline: BLIP fine-tuned on 1,400+ image-question-answer pairs, with LLaMA 3.3 70B (via Groq) refining raw answers. Served through FastAPI with a React frontend.</p>
-      <p><sub><b>BLIP · FastAPI · React · Groq · LLaMA 3.3 70B</b></sub></p>
-      <a href="https://github.com/imtridib/VQA_FINETUNE-using-BLIP_Model">View project →</a>
-    </td>
+    <td width="50%" valign="top" ><h3>Multilingual VQA for Cultural Heritage</h3></td>
+    <td width="50%" valign="top" ><h3>Production-Grade Multimodal VQA</h3></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Waste Detection with YOLOv8</h3>
-      <p>Trained and compared YOLOv8n, s and m on 4,959 annotated images across 5 classes. YOLOv8n reached 89.6% precision and 81.33% accuracy with the fastest inference.</p>
-      <p><sub><b>Python · PyTorch · YOLOv8 · Roboflow</b></sub></p>
-      <a href="https://www.kaggle.com/imtridib">View on Kaggle →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI Customer Review Email Automation</h3>
-      <p>n8n workflow that fetches customer review emails through the Gmail API and drafts context-aware replies with GPT, using vector-based retrieval for consistent responses.</p>
-      <p><sub><b>n8n · Gmail API · GPT API · Vector Database</b></sub></p>
-    </td>
+    <td width="50%" valign="top" >Capstone project. Curated a multilingual VQA dataset of Bangladeshi heritage sites, applied text augmentation, and fine-tuned BLIP to answer questions about heritage images.</td>
+    <td width="50%" valign="top" >Two-stage VLM + LLM pipeline: BLIP fine-tuned on 1,400+ image-question-answer pairs, with LLaMA 3.3 70B (via Groq) refining raw answers. Served through FastAPI with a React frontend.</td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>Movie Recommendation System</h3>
-      <p>Content-based recommender built on 5,000+ cleaned TMDB records, using TF-IDF vectorization and cosine similarity, served in an interactive Streamlit app.</p>
-      <p><sub><b>Python · TF-IDF · Cosine Similarity · TMDB API · Streamlit</b></sub></p>
-      <a href="https://github.com/imtridib/movieRecomendation">View project →</a>
-    </td>
+    <td width="50%" valign="top" ><sub><b>Python · PyTorch · BLIP · Transformers · Streamlit</b></sub></td>
+    <td width="50%" valign="top" ><sub><b>BLIP · FastAPI · React · Groq · LLaMA 3.3 70B</b></sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" ><a href="https://github.com/imtridib/Capstone-Project">View project →</a></td>
+    <td width="50%" valign="top" ><a href="https://github.com/imtridib/VQA_FINETUNE-using-BLIP_Model">View project →</a></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" ><h3>Waste Detection with YOLOv8</h3></td>
+    <td width="50%" valign="top" ><h3>AI Customer Review Email Automation</h3></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" >Trained and compared YOLOv8n, s and m on 4,959 annotated images across 5 classes. YOLOv8n reached 89.6% precision and 81.33% accuracy with the fastest inference.</td>
+    <td width="50%" valign="top" >n8n workflow that fetches customer review emails through the Gmail API and drafts context-aware replies with GPT, using vector-based retrieval for consistent responses.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" ><sub><b>Python · PyTorch · YOLOv8 · Roboflow</b></sub></td>
+    <td width="50%" valign="top" ><sub><b>n8n · Gmail API · GPT API · Vector Database</b></sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" ><a href="https://www.kaggle.com/imtridib">View on Kaggle →</a></td>
+    <td width="50%" valign="top" ><sub>Automation workflow</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><h3>Movie Recommendation System</h3></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">Content-based recommender built on 5,000+ cleaned TMDB records, using TF-IDF vectorization and cosine similarity, served in an interactive Streamlit app.</td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><sub><b>Python · TF-IDF · Cosine Similarity · TMDB API · Streamlit</b></sub></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><a href="https://github.com/imtridib/movieRecomendation">View project →</a></td>
   </tr>
 </table>
 

@@ -122,50 +122,82 @@ CSE graduate from **East West University** (Major: Data Science) with hands-on e
 ## Featured Projects
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top" ><h3>Multilingual VQA for Cultural Heritage</h3></td>
-    <td width="50%" valign="top" ><h3>Production-Grade Multimodal VQA</h3></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" >Capstone project. Curated a multilingual VQA dataset of Bangladeshi heritage sites, applied text augmentation, and fine-tuned BLIP to answer questions about heritage images.</td>
-    <td width="50%" valign="top" >Two-stage VLM + LLM pipeline: BLIP fine-tuned on 1,400+ image-question-answer pairs, with LLaMA 3.3 70B (via Groq) refining raw answers. Served through FastAPI with a React frontend.</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" ><sub><b>Python · PyTorch · BLIP · Transformers · Streamlit</b></sub></td>
-    <td width="50%" valign="top" ><sub><b>BLIP · FastAPI · React · Groq · LLaMA 3.3 70B</b></sub></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" ><a href="https://github.com/imtridib/Capstone-Project">View project →</a></td>
-    <td width="50%" valign="top" ><a href="https://github.com/imtridib/VQA_FINETUNE-using-BLIP_Model">View project →</a></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" ><h3>Waste Detection with YOLOv8</h3></td>
-    <td width="50%" valign="top" ><h3>AI Customer Review Email Automation</h3></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" >Trained and compared YOLOv8n, s and m on 4,959 annotated images across 5 classes. YOLOv8n reached 89.6% precision and 81.33% accuracy with the fastest inference.</td>
-    <td width="50%" valign="top" >n8n workflow that fetches customer review emails through the Gmail API and drafts context-aware replies with GPT, using vector-based retrieval for consistent responses.</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" ><sub><b>Python · PyTorch · YOLOv8 · Roboflow</b></sub></td>
-    <td width="50%" valign="top" ><sub><b>n8n · Gmail API · GPT API · Vector Database</b></sub></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" ><a href="https://www.kaggle.com/imtridib">View on Kaggle →</a></td>
-    <td width="50%" valign="top" ><sub>Automation workflow</sub></td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top"><h3>Movie Recommendation System</h3></td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">Content-based recommender built on 5,000+ cleaned TMDB records, using TF-IDF vectorization and cosine similarity, served in an interactive Streamlit app.</td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top"><sub><b>Python · TF-IDF · Cosine Similarity · TMDB API · Streamlit</b></sub></td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top"><a href="https://github.com/imtridib/movieRecomendation">View project →</a></td>
-  </tr>
+  <thead>
+    <tr>
+      <td colspan="2" width="100%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3" width="100%" height="3" alt=""/></td>
+    </tr>
+    <tr>
+      <th width="40%" align="left">PROJECT</th>
+      <th width="60%" align="left">OVERVIEW</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="40%" valign="top">
+        <h3>🌏 Multilingual VQA</h3>
+        <a href="https://github.com/imtridib/Capstone-Project">Explore Repository ↗</a>
+      </td>
+      <td width="60%" valign="top">
+        Capstone project. Visual question answering for Bangladesh's cultural heritage, using a fine-tuned BLIP model.
+        <br/><br/>
+        <sub>Curated multilingual VQA dataset · text augmentation · Streamlit app</sub>
+        <br/><br/>
+        <code>Python</code> <code>PyTorch</code> <code>BLIP</code> <code>Transformers</code> <code>Streamlit</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="40%" valign="top">
+        <h3>🧠 Multimodal VQA System</h3>
+        <a href="https://github.com/imtridib/VQA_FINETUNE-using-BLIP_Model">Explore Repository ↗</a>
+      </td>
+      <td width="60%" valign="top">
+        Two-stage VLM + LLM pipeline for household objects and shop products. BLIP answers are refined by LLaMA 3.3 70B through Groq.
+        <br/><br/>
+        <sub>Fine-tuned on 1,400+ image-question-answer pairs · FastAPI + React</sub>
+        <br/><br/>
+        <code>BLIP</code> <code>FastAPI</code> <code>React</code> <code>Groq</code> <code>LLaMA 3.3</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="40%" valign="top">
+        <h3>♻️ Waste Detection</h3>
+        <a href="https://www.kaggle.com/imtridib">Explore Kaggle ↗</a>
+      </td>
+      <td width="60%" valign="top">
+        Trained and compared YOLOv8n, YOLOv8s and YOLOv8m to detect and classify waste across five categories.
+        <br/><br/>
+        <sub>4,959 annotated images · YOLOv8n: 89.6% precision, 81.33% accuracy, fastest inference</sub>
+        <br/><br/>
+        <code>YOLOv8</code> <code>PyTorch</code> <code>Roboflow</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="40%" valign="top">
+        <h3>📧 Email Automation</h3>
+        <sub>Automation workflow</sub>
+      </td>
+      <td width="60%" valign="top">
+        n8n workflow that fetches customer review emails through the Gmail API and drafts context-aware replies with GPT.
+        <br/><br/>
+        <sub>Vector-based retrieval for relevant, consistent responses</sub>
+        <br/><br/>
+        <code>n8n</code> <code>Gmail API</code> <code>GPT API</code> <code>Vector DB</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="40%" valign="top">
+        <h3>🎬 Movie Recommendation</h3>
+        <a href="https://github.com/imtridib/movieRecomendation">Explore Repository ↗</a>
+      </td>
+      <td width="60%" valign="top">
+        Content-based recommendations using movie metadata, TF-IDF and cosine similarity.
+        <br/><br/>
+        <sub>5,000+ cleaned TMDB records · interactive Streamlit app</sub>
+        <br/><br/>
+        <code>Python</code> <code>TF-IDF</code> <code>Streamlit</code> <code>TMDB API</code>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <br/>
@@ -175,13 +207,16 @@ CSE graduate from **East West University** (Major: Data Science) with hands-on e
 <table width="100%">
   <thead>
     <tr>
+      <td colspan="2" width="100%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3" width="100%" height="3" alt=""/></td>
+    </tr>
+    <tr>
       <th width="70%" align="left">PUBLICATION & RESEARCH</th>
       <th width="30%" align="center">BEST RESULT</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top">
+      <td width="70%" valign="top">
         <h3>Multiple Pox and Skin Diseases Classification Using Transfer Learning Approach</h3>
         <sub>Medical image classification · Transfer Learning · ICDMIS 2025</sub>
         <br/><br/>
@@ -189,7 +224,7 @@ CSE graduate from **East West University** (Major: Data Science) with hands-on e
         <br/><br/>
         <a href="https://doi.org/10.1007/978-3-032-25949-3_16">📄 Read Published Paper ↗</a>
       </td>
-      <td align="center" valign="middle">
+      <td width="30%" align="center" valign="middle">
         <h2>98.39%</h2>
         <strong>DenseNet201</strong>
         <br/>
@@ -197,7 +232,7 @@ CSE graduate from **East West University** (Major: Data Science) with hands-on e
       </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td width="70%" valign="top">
         <h3>Colorectal Cancer Classification Using Transfer Learning</h3>
         <sub>Histopathology · Multi-class Classification · Transfer Learning</sub>
         <br/><br/>
@@ -205,7 +240,7 @@ CSE graduate from **East West University** (Major: Data Science) with hands-on e
         <br/><br/>
         <a href="https://doi.org/10.1007/978-3-032-25949-3_30">📄 Read Published Paper ↗</a>
       </td>
-      <td align="center" valign="middle">
+      <td width="30%" align="center" valign="middle">
         <h2>94.46%</h2>
         <strong>DenseNet201</strong>
         <br/>
@@ -214,6 +249,8 @@ CSE graduate from **East West University** (Major: Data Science) with hands-on e
     </tr>
   </tbody>
 </table>
+
+<sub>Accuracy values are as reported in the respective papers.</sub>
 
 <br/>
 

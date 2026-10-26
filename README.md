@@ -18,12 +18,20 @@ Building practical AI systems through research and engineering.
 | [Movie Recommendation](https://github.com/imtridib/movieRecomendation) | Python · TF-IDF · Cosine Similarity · Streamlit |
 | [Plastic & Waste Detection](https://www.kaggle.com/imtridib) | YOLOv8 · Object Detection · Computer Vision |
 
-### 🔬 Research
+### 🔬 Research & Publications
 
-- **Skin Disease Classification** — DenseNet201 · 98.39% accuracy
-- **Colorectal Cancer Classification** — DenseNet201 · 94.46% accuracy
+**1. Multiple Pox and Skin Diseases Classification Using Transfer Learning Approach**
 
-[Google Scholar / DOI: Skin Disease](https://doi.org/10.1007/978-3-032-25949-3_16) · [CRC Research](https://doi.org/10.1007/978-3-032-25949-3_30)
+- Evaluated transfer-learning models for multi-class skin disease classification.
+- **Best result:** DenseNet201 — 98.39% accuracy.
+- 📄 [Read Research Paper (DOI)](https://doi.org/10.1007/978-3-032-25949-3_16)
+
+**2. Colorectal Cancer Classification Using Transfer Learning**
+
+- Compared deep learning architectures for classifying colorectal cancer histopathology images across 11 classes.
+- **Best result:** DenseNet201 — 94.46% accuracy.
+- 📄 [Read Research Paper (DOI)](https://doi.org/10.1007/978-3-032-25949-3_30)
+
 
 ### 🧰 Skills
 

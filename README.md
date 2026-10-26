@@ -15,8 +15,8 @@ Building practical AI systems through research and engineering.
 |---|---|
 | [Multilingual VQA](https://github.com/imtridib/Capstone-Project) | BLIP · Cultural Heritage · Bangla/English |
 | [BLIP VQA Fine-Tuning](https://github.com/imtridib/VQA_FINETUNE-using-BLIP_Model) | Vision-Language AI · FastAPI · React |
-| [SentinelAI](https://github.com/imtridib/sentinelai-api-monitor) | API Monitoring · Anomaly Detection |
-| [Movie Recommendation](https://github.com/imtridib/movieRecomendation) | Python · TF-IDF · Streamlit |
+| [Movie Recommendation](https://github.com/imtridib/movieRecomendation) | Python · TF-IDF · Cosine Similarity · Streamlit |
+| [Plastic & Waste Detection](https://www.kaggle.com/imtridib) | YOLOv8 · Object Detection · Computer Vision |
 
 ### 🔬 Research
 

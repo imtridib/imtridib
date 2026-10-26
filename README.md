@@ -18,6 +18,37 @@ Building practical AI systems through research and engineering.
 | [Movie Recommendation](https://github.com/imtridib/movieRecomendation) | Python · TF-IDF · Cosine Similarity · Streamlit |
 | [Plastic & Waste Detection](https://www.kaggle.com/imtridib) | YOLOv8 · Object Detection · Computer Vision |
 
+
+<h3>🚀 Featured Projects</h3>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/imtridib/Capstone-Project">Multilingual VQA</a></td>
+      <td>BLIP · Cultural Heritage · Bangla/English</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/imtridib/VQA_FINETUNE-using-BLIP_Model">BLIP VQA Fine-Tuning</a></td>
+      <td>Vision-Language AI · FastAPI · React</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/imtridib/movieRecomendation">Movie Recommendation</a></td>
+      <td>Python · TF-IDF · Cosine Similarity · Streamlit</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.kaggle.com/imtridib">Plastic &amp; Waste Detection</a></td>
+      <td>YOLOv8 · Object Detection · Computer Vision</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### 🔬 Research & Publications
 
 **1. Multiple Pox and Skin Diseases Classification Using Transfer Learning Approach**

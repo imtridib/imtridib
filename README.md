@@ -22,10 +22,10 @@ CSE graduate from **East West University** (Major: Data Science) with hands-on e
 
 <table width="100%">
   <tr>
-    <td width="25%" valign="top" align="center"><b>Applied AI</b><br/><sub>LLMs · NLP · RAG<br/>Prompt engineering</sub></td>
-    <td width="25%" valign="top" align="center"><b>Computer Vision</b><br/><sub>VQA · Detection<br/>Classification</sub></td>
-    <td width="25%" valign="top" align="center"><b>AI Engineering</b><br/><sub>FastAPI · React<br/>Streamlit · Docker</sub></td>
-    <td width="25%" valign="top" align="center"><b>Automation</b><br/><sub>n8n workflows<br/>LLM agents & APIs</sub></td>
+    <td width="25%" valign="top" align="center"><b>Applied AI</b><br/>LLMs · NLP · RAG<br/>Prompt engineering</td>
+    <td width="25%" valign="top" align="center"><b>Computer Vision</b><br/>VQA · Detection<br/>Classification</td>
+    <td width="25%" valign="top" align="center"><b>AI Engineering</b><br/>FastAPI · React<br/>Streamlit · Docker</td>
+    <td width="25%" valign="top" align="center"><b>Automation</b><br/>n8n workflows<br/>LLM agents & APIs</td>
   </tr>
 </table>
 
@@ -124,9 +124,6 @@ CSE graduate from **East West University** (Major: Data Science) with hands-on e
 <table width="100%">
   <thead>
     <tr>
-      <td colspan="2" width="100%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3" width="100%" height="3" alt=""/></td>
-    </tr>
-    <tr>
       <th width="40%" align="left">PROJECT</th>
       <th width="60%" align="left">OVERVIEW</th>
     </tr>
@@ -134,68 +131,63 @@ CSE graduate from **East West University** (Major: Data Science) with hands-on e
   <tbody>
     <tr>
       <td width="40%" valign="top">
-        <h3>🌏 Multilingual VQA</h3>
+        <h2>🌏 Multilingual VQA</h2>
         <a href="https://github.com/imtridib/Capstone-Project">Explore Repository ↗</a>
       </td>
       <td width="60%" valign="top">
         Capstone project. Visual question answering for Bangladesh's cultural heritage, using a fine-tuned BLIP model.
         <br/><br/>
-        <sub>Curated multilingual VQA dataset · text augmentation · Streamlit app</sub>
+        Curated multilingual VQA dataset · text augmentation · Streamlit app
         <br/><br/>
-        <code>Python</code> <code>PyTorch</code> <code>BLIP</code> <code>Transformers</code> <code>Streamlit</code>
-      </td>
+        <b>Python · PyTorch · BLIP · Transformers · Streamlit</b></td>
     </tr>
     <tr>
       <td width="40%" valign="top">
-        <h3>🧠 Multimodal VQA System</h3>
+        <h2>🧠 Multimodal VQA System</h2>
         <a href="https://github.com/imtridib/VQA_FINETUNE-using-BLIP_Model">Explore Repository ↗</a>
       </td>
       <td width="60%" valign="top">
         Two-stage VLM + LLM pipeline for household objects and shop products. BLIP answers are refined by LLaMA 3.3 70B through Groq.
         <br/><br/>
-        <sub>Fine-tuned on 1,400+ image-question-answer pairs · FastAPI + React</sub>
+        Fine-tuned on 1,400+ image-question-answer pairs · FastAPI + React
         <br/><br/>
-        <code>BLIP</code> <code>FastAPI</code> <code>React</code> <code>Groq</code> <code>LLaMA 3.3</code>
-      </td>
+        <b>BLIP · FastAPI · React · Groq · LLaMA 3.3</b></td>
     </tr>
     <tr>
       <td width="40%" valign="top">
-        <h3>♻️ Waste Detection</h3>
+        <h2>♻️ Waste Detection</h2>
         <a href="https://www.kaggle.com/imtridib">Explore Kaggle ↗</a>
       </td>
       <td width="60%" valign="top">
         Trained and compared YOLOv8n, YOLOv8s and YOLOv8m to detect and classify waste across five categories.
         <br/><br/>
-        <sub>4,959 annotated images · YOLOv8n: 89.6% precision, 81.33% accuracy, fastest inference</sub>
+        4,959 annotated images · YOLOv8n: 89.6% precision, 81.33% accuracy, fastest inference
         <br/><br/>
-        <code>YOLOv8</code> <code>PyTorch</code> <code>Roboflow</code>
-      </td>
+        <b>YOLOv8 · PyTorch · Roboflow</b></td>
     </tr>
     <tr>
       <td width="40%" valign="top">
-        <h3>📧 Email Automation</h3>
-        <sub>Automation workflow</sub>
+        <h2>📧 Email Automation</h2>
+        Automation workflow
       </td>
       <td width="60%" valign="top">
         n8n workflow that fetches customer review emails through the Gmail API and drafts context-aware replies with GPT.
         <br/><br/>
-        <sub>Vector-based retrieval for relevant, consistent responses</sub>
+        Vector-based retrieval for relevant, consistent responses
         <br/><br/>
-        <code>n8n</code> <code>Gmail API</code> <code>GPT API</code> <code>Vector DB</code>
-      </td>
+        <b>n8n · Gmail API · GPT API · Vector DB</b></td>
     </tr>
     <tr>
       <td width="40%" valign="top">
-        <h3>🎬 Movie Recommendation</h3>
+        <h2>🎬 Movie Recommendation</h2>
         <a href="https://github.com/imtridib/movieRecomendation">Explore Repository ↗</a>
       </td>
       <td width="60%" valign="top">
         Content-based recommendations using movie metadata, TF-IDF and cosine similarity.
         <br/><br/>
-        <sub>5,000+ cleaned TMDB records · interactive Streamlit app</sub>
+        5,000+ cleaned TMDB records · interactive Streamlit app
         <br/><br/>
-        <code>Python</code> <code>TF-IDF</code> <code>Streamlit</code> <code>TMDB API</code>
-      </td>
+        <b>Python · TF-IDF · Streamlit · TMDB API</b></td>
     </tr>
   </tbody>
 </table>
@@ -207,9 +199,6 @@ CSE graduate from **East West University** (Major: Data Science) with hands-on e
 <table width="100%">
   <thead>
     <tr>
-      <td colspan="2" width="100%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3" width="100%" height="3" alt=""/></td>
-    </tr>
-    <tr>
       <th width="70%" align="left">PUBLICATION & RESEARCH</th>
       <th width="30%" align="center">BEST RESULT</th>
     </tr>
@@ -217,40 +206,40 @@ CSE graduate from **East West University** (Major: Data Science) with hands-on e
   <tbody>
     <tr>
       <td width="70%" valign="top">
-        <h3>Multiple Pox and Skin Diseases Classification Using Transfer Learning Approach</h3>
-        <sub>Medical image classification · Transfer Learning · ICDMIS 2025</sub>
+        <h2>Multiple Pox and Skin Diseases Classification Using Transfer Learning Approach</h2>
+        Medical image classification · Transfer Learning · ICDMIS 2025
         <br/><br/>
         Evaluated deep learning architectures on a dataset of 6,756 skin disease images.
         <br/><br/>
         <a href="https://doi.org/10.1007/978-3-032-25949-3_16">📄 Read Published Paper ↗</a>
       </td>
       <td width="30%" align="center" valign="middle">
-        <h2>98.39%</h2>
+        <h1>98.39%</h1>
         <strong>DenseNet201</strong>
         <br/>
-        <sub>Reported accuracy</sub>
+        Reported accuracy
       </td>
     </tr>
     <tr>
       <td width="70%" valign="top">
-        <h3>Colorectal Cancer Classification Using Transfer Learning</h3>
-        <sub>Histopathology · Multi-class Classification · Transfer Learning</sub>
+        <h2>Colorectal Cancer Classification Using Transfer Learning</h2>
+        Histopathology · Multi-class Classification · Transfer Learning
         <br/><br/>
         Compared deep learning architectures on 8,750 histopathology images across 11 classes.
         <br/><br/>
         <a href="https://doi.org/10.1007/978-3-032-25949-3_30">📄 Read Published Paper ↗</a>
       </td>
       <td width="30%" align="center" valign="middle">
-        <h2>94.46%</h2>
+        <h1>94.46%</h1>
         <strong>DenseNet201</strong>
         <br/>
-        <sub>Reported accuracy</sub>
+        Reported accuracy
       </td>
     </tr>
   </tbody>
 </table>
 
-<sub>Accuracy values are as reported in the respective papers.</sub>
+<i>Accuracy values are as reported in the respective papers.</i>
 
 <br/>
 
@@ -261,11 +250,11 @@ CSE graduate from **East West University** (Major: Data Science) with hands-on e
     <td width="50%" valign="top">
       <b>B.Sc. in Computer Science and Engineering</b><br/>
       East West University · Major in Data Science<br/>
-      <sub>2020 – 2025</sub>
+      2020 – 2025
     </td>
     <td width="50%" valign="top">
       <b>DataCamp Certifications</b><br/>
-      <sub>Regression with statsmodels · Time Series · Unsupervised Learning · Tree-Based Models · Feature Engineering · Data Visualization with Seaborn</sub>
+      Regression with statsmodels · Time Series · Unsupervised Learning · Tree-Based Models · Feature Engineering · Data Visualization with Seaborn
     </td>
   </tr>
 </table>
@@ -280,7 +269,7 @@ CSE graduate from **East West University** (Major: Data Science) with hands-on e
 <a href="https://www.kaggle.com/imtridib"><img src="https://img.shields.io/badge/Kaggle-Explore%20Work-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://www.linkedin.com/in/tridib-chakraborty-ewu-thk/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<sub><i>Research · Experiment · Build · Deploy</i></sub>
+<i>Research · Experiment · Build · Deploy</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" width="100%" alt="footer"/>
 
